@@ -18,12 +18,16 @@
 
 ## <ins>**The functionality includes the following:**</ins>
 
-#### * The first screen displays
+### * The first screen displays
 
-#### 1) The clock at the top, with the format hh:mm:ss AM/PM;
+#### 1) The clock at the top, with the format hh:mm:ss AM/PM.
+   * This is a sample of that line: "_8:09:25 AM_";
 
-#### 2) The second line shows the day of the week and the date, with the sample format: "Wed, 05/21/2025";
+#### 2) The second line shows the day of the week and the date.
+   * This is a sample of that line: "_Wed, 05/21/2025_";
 
-#### 3) The third line shows the mp3 player (DFPlayer) status, which is initially idle. This is a sample of that line at the time of power up: "PLAYER: Idle";
+#### 3) The third line shows the mp3 player (DFPlayer) status, which is initially idle.
+   * This is a sample of that line at the time of power up: "_PLAYER: Idle_";
 
-#### 4) The fourth line displays the battery level, as it is being read from LC709203F. This is a sample of that line: "Bat: 55.60% 3.95V";
+#### 4) The fourth line displays the battery level, as it is being read from LC709203F.
+   * This is a sample of that line: "_Bat: 55.60% 3.95V_";
